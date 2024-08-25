@@ -1,8 +1,8 @@
 {
-  "name": "admin-dashboard-daisyui-nextjs-typescript",
+  "name": "landing-page-nextjs-template",
   "version": "0.1.0",
   "private": true,
-  "description": "Admin Dashboard template built with next js 14 app router typescript, tailwind css and daisy UI. Template uses rich tailwind css utility classes and have components of daisy UI, also have redux toolkit implemented for store management.",
+  "description": "Landing Page typescript template with daisyu UI and tailwind css, Next Js App router",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robbins23/admin-dashboard-nextjs-daisyui-template"
+    "url": "git+https://github.com/robbins23/landing-nextjs-ts-template"
   },
   "keywords": [
     "reactjs",
@@ -55,6 +55,6 @@
   "author": "robbins23",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/robbins23/admin-dashboard-nextjs-daisyui-template/issues"
+    "url": "https://github.com/robbins23/landing-nextjs-ts-template/issues"
   }
 }
