@@ -9,7 +9,7 @@ A free landing page template using **Daisy UI** and Next JS. With the help of Da
 
 ## Preview
 
-[Live preview](https://daisyui-nextjs-landing-page.vercel.app/)
+<!-- [Live preview](https://daisyui-nextjs-landing-page.vercel.app/) -->
 
 
 ![App Screenshot](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot_2023-02-27_at_12.08.40_AM_rXhphy-m8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677436733271)
@@ -35,9 +35,9 @@ Go to project directory and run (make sure you have node installed first)
     
 ## Core Libraries Used
 
-- [Next JS v13.1.6](https://reactjs.org/)
+- [Next JS v14.1.6](https://reactjs.org/)
 - [Tailwind CSS v3.2.4](https://tailwindcss.com/)
-- [Daisy UI v2.41.0](https://daisyui.com/)
+- [Daisy UI v3](https://daisyui.com/)
 - [HeroIcons](https://heroicons.com/)
 
 
